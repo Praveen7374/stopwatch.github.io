@@ -12,6 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   background-image:Url(./images/background_01.jpg);
+  background-repeat:no-repeat;
 }
 .wrapper {
   user-select: none;
